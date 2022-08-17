@@ -2,7 +2,7 @@
 
 #
 
-<p style="text-align:center;"><a  href="https://jacksonmarcelinofreitas.github.io/Moveis_Customizaveis/">👀 See the Webpage here!</a></p>
+<p style="text-align:center"><a  href="https://jacksonmarcelinofreitas.github.io/Moveis_Customizaveis/">👀 See the Webpage here!</a></p>
 
 #
 
