@@ -1,2 +1,2 @@
-<img src=""/>
-<img src="https://raw.githubusercontent.com/jacksonMarcelinoFreitas/Moveis_Customizaveis/master/images/project_print.png"/>
+<img src="https://raw.githubusercontent.com/jacksonMarcelinoFreitas/Moveis_Customizaveis/master/images/Capa%20Readme%201.png"/>
+<img width=1080 src="https://raw.githubusercontent.com/jacksonMarcelinoFreitas/Moveis_Customizaveis/master/images/project_print.png"/>
